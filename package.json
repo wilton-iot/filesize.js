@@ -52,7 +52,8 @@
       "test",
       "Gruntfile.js",
       "composer.json",
-      "package-lock.json"
+      "package-lock.json",
+      "test.js"
     ]
   }
 }
