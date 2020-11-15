@@ -60,6 +60,7 @@
       "test",
       "Gruntfile.js",
       "composer.json",
+      "filesize.d.ts",
       "package-lock.json",
       "test.js"
     ]
